@@ -1,0 +1,12 @@
+div {
+    background-color:azure ; 
+    height: 550px;
+    width: 500px; 
+}
+p {
+    font-style: italic ;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: 900;
+    text-align: center;
+    
+}
