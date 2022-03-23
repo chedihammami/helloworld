@@ -12,7 +12,7 @@ export class AppComponent {
      
   }
   ngOnInit() {
-   this.http.get("http://localhost:32405", {
+   this.http.get("http://localhost:31021", {
     headers: new HttpHeaders({
       'Content-Type': 'application/json',
     }),
